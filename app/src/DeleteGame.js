@@ -12,7 +12,7 @@ export default withRouter(class Delete extends React.Component {
         return (
             <div>
                 <form onSubmit={this.handleSubmit}>
-                    <button>Delete</button>
+                    <button>Delete Game</button>
                 </form>
             </div>
         );
